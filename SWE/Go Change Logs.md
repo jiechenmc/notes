@@ -1,0 +1,4 @@
+- 1.22
+	- Variables in loops are per iteration scoped
+- 1.14
+	- Cooperative Scheduler -> Preemptive Scheduler
