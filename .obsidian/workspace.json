@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/CSE534/8_Network_Forward_Addressing.md",
+                "file": "Class/CSE534/9_Intra-Domain-Routing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8_Network_Forward_Addressing"
-            }
-          },
-          {
-            "id": "9f7f0b647605b689",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/PacketSwitching.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "PacketSwitching.excalidraw"
+              "title": "9_Intra-Domain-Routing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,9 +171,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f7f0b647605b689",
+  "active": "7ed18e034c197963",
   "lastOpenFiles": [
-    "Class/CSE534/8_Network_Forward_Addressing.md",
+    "Class/CSE534/8_1Network_Addressing.md",
+    "Class/CSE534/9_Intra-Domain-Routing.md",
+    "Excalidraw/NAT.md",
+    "Excalidraw/TCAM.md",
+    "Class/CSE534/8_0Network_Forward_Addressing.md",
     "Excalidraw/PacketSwitching.excalidraw.md",
     "Class/CSE534/7_SPDY.md",
     "Class/CSE590/4_Storage_Stack_Filesystem.md",
@@ -208,11 +199,7 @@
     "Excalidraw/HTTPS.md",
     "Excalidraw/HTTP.md",
     "Excalidraw/DNS-Query.md",
-    "Excalidraw/ConsistentHashing.md",
-    "Excalidraw/CDN.md",
     "Class/CSE534",
-    "OS/File.md",
-    "Class/CSE590/4_Storage_Stack.md",
     "Untitled",
     "Excalidraw",
     "Untitled.canvas",
