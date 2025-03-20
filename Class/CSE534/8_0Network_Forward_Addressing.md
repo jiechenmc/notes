@@ -4,7 +4,7 @@ title: Network Forwarding
 tags:
   - networks
 ---
-8# Forwarding
+# Forwarding
 
 ## Virtual Circuits
 
