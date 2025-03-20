@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/CSE534/10_Inter-Domain.md",
+                "file": "Class/CSE356/11_Switching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10_Inter-Domain"
+              "title": "11_Switching"
             }
           }
         ]
@@ -173,12 +173,13 @@
   },
   "active": "30e5074842f754bf",
   "lastOpenFiles": [
+    "Class/CSE534/10_Inter-Domain.md",
+    "Class/CSE356/11_Switching.md",
     "Class/CSE534/9_Intra-Domain-Routing.md",
     "Excalidraw/Distance Vector Routing.excalidraw.md",
     "Excalidraw/Distance Vector Routing.excalidraw",
     "Class/CSE534/8_1Network_Addressing.md",
     "Class/CSE534/8_0Network_Forward_Addressing.md",
-    "Class/CSE534/10_Inter-Domain.md",
     "Excalidraw/Distance Vector Routing.md",
     "SWE/Kubernetes.md",
     "Excalidraw/TCAM.md",
