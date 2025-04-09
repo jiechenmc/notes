@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/CSE534/9_Intra-Domain-Routing.md",
+                "file": "SWE/Slurm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9_Intra-Domain-Routing"
+              "title": "Slurm"
             }
           }
         ]
@@ -173,12 +173,13 @@
   },
   "active": "7ed18e034c197963",
   "lastOpenFiles": [
+    "Class/CSE534/9_Intra-Domain-Routing.md",
+    "SWE/Slurm.md",
     "Excalidraw/Distance Vector Routing.excalidraw.md",
     "Class/CSE590/6_FileSystem-Hard_Links_and_Soft_Links.md",
     "Class/CSE534/10_Inter-Domain.md",
     "Class/CSE356/11_Switching.md",
     "Class/CSE534/8_1Network_Addressing.md",
-    "Class/CSE534/9_Intra-Domain-Routing.md",
     "Excalidraw/NAT.md",
     "Excalidraw/TCAM.md",
     "Class/CSE534/8_0Network_Forward_Addressing.md",
@@ -198,7 +199,6 @@
     "Class/CSE534/3_http.md",
     "Class/CSE534/1_intro.md",
     "Excalidraw/TCP-Tahoe.md",
-    "Excalidraw/TCP-CumAck.md",
     "Class/CSE534",
     "Untitled",
     "Excalidraw",
