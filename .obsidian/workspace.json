@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/CSE590/7_Block_Based_Organization.md",
+                "file": "Class/CSE590/10_VFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7_Block_Based_Organization"
+              "title": "10_VFS"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "4e6be71c7261b558",
   "lastOpenFiles": [
-    "Class/CSE590/6_FileSystem-Hard_Links_and_Soft_Links.md",
     "Class/CSE590/7_Block_Based_Organization.md",
+    "Class/CSE590/10_VFS.md",
+    "Class/CSE590/6_FileSystem-Hard_Links_and_Soft_Links.md",
     "Class/CSE590/0_HW0.md",
     "Class/CSE590/5_Filesystem_Demo.md",
     "SWE/Slurm.md",
@@ -199,7 +200,6 @@
     "SWE/Go Change Logs.md",
     "Excalidraw/TCP-Tahoe.md",
     "Class/CSE534/5_Transport-Intro.md",
-    "Class/CSE534/4_CDN.md",
     "Class/CSE534",
     "Untitled",
     "Excalidraw",
